@@ -73,7 +73,7 @@ services:
     ports:
       - "9600:9600"
       - "9999:9999"
-      - "9999:9999"
+      - "9998:9998"
     environment:
       LS_JAVA_OPTS: "-Xmx256m -Xms256m"
 
