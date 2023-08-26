@@ -87,6 +87,3 @@ services:
       - Elasticsearch
 volumes:
   elastic_data: {}
-
-networks:
-  elk:
